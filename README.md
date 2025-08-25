@@ -1,18 +1,11 @@
 <p align="center">
   <h1 align="center">Facebuilder Tool</h1>
-<<<<<<< HEAD
 
   <div align="center">
     <img src="./assets/teaser.png" alt="Logo" width="100%">
   </div>
 
 </p>
-
-=======
-  <p align="center">
-    <a href="https://www.cubox.ai/"><strong>SECERN AI</strong></a>
-  </p>
->>>>>>> df8e02df84ca00a831ffd63f1ac0916d85d529fa
 ## Overview
 
 FaceBuilder is a sophisticated 3D face modeling tool developed by Keentools that allows precise manipulation of 3D facial meshes using a pin-based deformation system. The tool supports interactive mesh editing across multiple views with synchronized 3D consistency.
